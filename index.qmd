@@ -43,6 +43,5 @@ resources:
 I am an aspiring **international economist** dedicated to analysing the complexities of our interconnected world. My research primarily focuses on **international economics**, **urban economics**, and **earth observation studies**.
 
 [Learn more about me &rarr;](/about){.about-links .subtitle}
-blog
 :::
 <!-- hero-heading -->

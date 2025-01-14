@@ -8,6 +8,6 @@ Thumbs.db
 /resources/
 /.quarto/
 
-
+/_site/
 /.luarc.json
 
