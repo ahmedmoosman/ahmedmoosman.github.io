@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Ahmed Osman</title>
+<link>https://ahmedmoosman.github.io/blog/</link>
+<atom:link href="https://ahmedmoosman.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+<description>A hub for my blogs, where I showcase technical insights on economics research, data analysis, and machine learning
+</description>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Sun, 31 Dec 2023 23:00:00 GMT</lastBuildDate>
+<item>
+  <title>interactive Data Visualization with Observable</title>
+  <link>https://ahmedmoosman.github.io/blog/Dataviz 2024/</link>
+  <description><![CDATA[ 
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- <header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> -->
+
+
+
+<section id="interactive-teaching" class="level2">
+
+<iframe width="100%" height="1187" frameborder="0" src="https://observablehq.com/embed/d839f88b823159ff?cells=viewof+input%2Cviewof+obsnumber%2Cviewof+simulatebutton%2Cscatterplot%2Cparamevolplot"></iframe>"&gt;
+</section>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"></h2>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-reuse"><h2 class="anchored quarto-appendix-heading">Reuse</h2><div class="quarto-appendix-contents"><div><a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></div></div></section><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-2024" class="csl-entry quarto-appendix-citeas">
+<span>“Interactive Data Visualization with Observable.”</span> 2024.
+January 1, 2024. <a href="https://ahmedmoosman.github.io/blog/Dataviz 2024/">https://ahmedmoosman.github.io/blog/Dataviz
+2024/</a>.
+</div></div></section></div> ]]></description>
+  <category>R</category>
+  <category>Observable</category>
+  <category>DataViz</category>
+  <guid>https://ahmedmoosman.github.io/blog/Dataviz 2024/</guid>
+  <pubDate>Sun, 31 Dec 2023 23:00:00 GMT</pubDate>
+  <media:content url="https://ahmedmoosman.github.io/blog/Dataviz 2024/figure1.png" medium="image" type="image/png" height="105" width="144"/>
+</item>
+</channel>
+</rss>

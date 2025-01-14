@@ -4,7 +4,7 @@ author:
   - name: Ahmed Mohamed Osman
     orcid: 0009-0000-2328-0496
 date: '2023-8-30'
-image: featured.png
+image: feature.png
 categories:
    - Dissertation
    - Economics
