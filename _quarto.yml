@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
   # post-render: 
    # - "cp -rnv static/. _site" # source: https://github.com/quarto-dev/quarto-cli/discussions/4162#discussioncomment-4831352
 
@@ -13,7 +14,7 @@ website:
       repo: ahmedmoosman/ahmedmoosman.github.io
       label: utterances
       theme: body-light
-      issue-term: title
+      issue-term: title 
  
   navbar:
     logo: assets/essentials/img/logo.png
