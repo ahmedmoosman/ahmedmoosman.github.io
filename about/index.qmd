@@ -1,0 +1,162 @@
+---
+title: "Ahmed M Osman"
+subtitle: Industrial development consultant & Research Assistant, <br> @ UNIDO & University of Trento
+image: sidebar/avatar.jpg
+image-alt: "Being happy is priceless"
+about:
+  template: trestles
+  image-width: 14em
+  image-shape: rounded
+  id: hero-heading
+  links:
+    - text: "{{< fa brands square-x-twitter >}}"
+      href: https://x.com/ahmed_ainaan
+    - icon: github
+      aria-label: GitHub
+      href: https://github.com/ahmedmoosman
+    - text: "{{< fa brands bluesky >}}"
+      href: https://bsky.app/profile/ainaan.bsky.social
+    - icon: linkedin
+      aria-label: "LinkedIn"
+      href: https://www.linkedin.com/in/ahmed-osman-6371aa12a/
+    - icon: mastodon
+      href: https://econtwitter.net/@ahmed6657
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0009-0000-2328-0496   
+listing: 
+- id: blog
+  contents: 
+    - "../blog/*/index.qmd"
+  sort: date desc
+  type: grid
+  grid-columns: 1
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, subtitle, image]
+  max-items: 1
+  image-height: "200"
+- id: talk
+  contents: 
+    - "../talk/*/index.qmd"
+  sort: date desc
+  type: grid
+  grid-columns: 1
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, subtitle, image]
+  max-items: 1
+  image-height: "200"
+- id: publication
+  contents: 
+    - "../publication/*/index.qmd"
+    - "../publication/*/index.markdown"
+  sort: date desc
+  type: grid
+  grid-columns: 1
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, image]
+  max-items: 1
+  image-height: "200"
+  image-placeholder: ../publication/featured.jpg
+- id: portfolio
+  contents: 
+    - "../portfolio/*/index.qmd"
+    - "../portfolio/*/index.markdown"
+  sort: date desc
+  type: grid
+  grid-columns: 1
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, subtitle, image]
+  max-items: 1
+  image-height: "200"
+format: 
+  html: 
+    page-layout: full
+
+header-includes: >
+  <link rel="stylesheet" href="../assets/about.css">
+resources:
+  - ../assets/about.css
+---
+
+::: {#hero-heading}
+<div class="h1" style="text-align: center;"> Ciao </div>
+
+
+
+I am a ***Research Assistant*** at the [**University of Trento**](https://www.unitn.it/), working on **slum detection** in Africa and integrating **earth observation data** into **quantitative economics** to better understand the dynamics of slum evolution and inform more **effective intervention policies** to address informal settlements.
+
+Additionally, I occasionally work as a **Industrial Development Consultant** at the [**United Nations Industrial Development Organization**](https://www.unido.org/), focusing on ***industrial research, policy evaluation***, and ***predictions*** using **economic complexity tools**.
+
+Learn more about my research interest in [publications](/publication).
+
+:::
+
+## About me
+
+::: {.grid}
+
+::: {.g-col-6 #about-me-1}
+
+**Economist in the making**
+
+I am an aspiring **international economist** dedicated to analysing the complexities of our interconnected world. My research primarily focuses on **international economics**, **urban economics**, and **earth observation studies**.
+
+
+:::
+
+::: {.g-col-6 #about-me-2}
+#### Education 
+
+<ul class="fa-ul">
+   <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span> 
+    M.Sc. in Economics of Globalization and European Integration (Specialised in Globalisation and Emerging Market Economies - GEME), 2023<br>
+    <span style="font-style: italic;">EMJMD EGEI Universities </span>, </li>
+  <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span> Master Law, Economics and Management; Dual Master through EGEI∙ University of lille ∙ 2023</li>
+   <li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>B.S. in Economics ∙ University of Hargeisa ∙ 2020</li>
+</ul>
+
+:::
+
+:::
+<!-- end grid -->
+
+## Lately ...
+
+:::: {.grid}
+
+::: {.g-col-3}
+#### Blog
+::: {#blog}
+:::
+[See all &rarr;](../blog){.about-links .subtitle}
+:::
+
+::: {.g-col-3}
+#### Talks
+::: {#talk}
+:::
+[See all &rarr;](../talk){.about-links .subtitle}
+:::
+
+::: {.g-col-3}
+#### Publications
+::: {#publication}
+:::
+[See all &rarr;](../publication){.about-links .subtitle}
+:::
+
+::: {.g-col-3}
+#### Portfolio
+::: {#portfolio}
+:::
+[See all &rarr;](../portfolio){.about-links .subtitle}
+:::
+
+::::

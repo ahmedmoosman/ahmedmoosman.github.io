@@ -1,0 +1,23 @@
+---
+title: "Peru in the global economy: Recent trends and potential diversification strategies"
+date: 2023-07-20
+date-modified: today
+author:
+  - Ahmed M Osman
+  - Florian Hespeel
+slug: peru-dive
+image: peru.png
+categories:
+  - Graphic Design
+  - Industrial
+  - Economics
+  - R
+  - Quarto
+subtitle: "Diversification policy and structural change for Peruvian Economy"
+description: ''
+links:
+  - icon: book
+    name: Report
+    url: https://www.unido.org/sites/default/files/unido-publications/2023-12/Peru%20in%20the%20global%20economy%20-%20SINGLE%20PAGE%20WEB.pdf?fbclid=IwAR2P7kwyKDArFjs0te79_u5xzBauO_-yoN4aEsdyuBbQfcQUe45XZxocj0k
+---
+Promoting SustainableIndustrialization (SDG9) involves technological innovation & economic diversification, crucial for developing countries. The successful collaboration between UNIDO & Peru in applying the DIVE (Diversifying Industries and Value Chains for Exports) tool is an impressive example of an innovative partnership, generating concrete & actionable evidence for informed decision-making.

@@ -1,0 +1,30 @@
+---
+title: "Export Diversification and Regional Trade Agreements: New empirical evidence" 
+author:
+  - name: Ahmed Mohamed Osman
+    orcid: 0009-0000-2328-0496
+date: '2023-8-30'
+image: featured.png
+categories:
+   - Dissertation
+   - Economics
+   - Research
+   - Industrial
+description: "Export Diversification and RTA"
+subtitle: 'The purpose of this study is to investigate the relationship between export diversification and regional trade agreements using trade data from BACI (CEPII) and the regional trade agreements database from Egger and Larch (2008) for the period spanning from 1995 to 2019'
+abstract: ''
+links:
+- icon: file-richtext-fill
+  name: Thesis
+  url: https://www.master-egei.eu/egei-working-paper-series/
+filters:
+  - lightbox
+lightbox: auto
+---
+
+## Abstract
+
+The number of Regional Trade Agreements (RTAs) signed in the last few decades has been steadily growing and have been instrumental to a deeper integration of the global economy. From a theoretical point of view, the reduction in trade costs related to RTAs might have an ambiguous effect on trade diversification which is a fundamental policy goal in developing countries. In fact, the selective abatement of trade costs on one side might at the same time reinforce sectors of specialisation and on the other side generate export opportunities in new sectors. The overall effect is hence an empirical question. The purpose of this study is to investigate the relationship between export diversification and regional trade agreements using trade data from BACI (CEPII) and the regional trade agreements database from Egger and Larch (2008) for the period spanning from 1995 to 2019. Employing a fixed-effect model, I find that regional trade agreements (RTA) increase the degree of trade diversification measured as the extensive margins of exports (number of export products and number of export products by destination). Based on the results, preferential trade agreements, in this case partial scope agreements (PSA), reduce the ability of the countries to add more products into the export basket, hence increasing export concentration. Interestingly, I find that Free trade agreements (FTA) and Customs Union (CU) agreements enhance export diversification by increasing the number of export products and destinations. I explore in the last part of the empirical analysis that cross-country heterogeneity of the RTA effects on export diversification is based on income level. The results indicate that the impact of RTA on export diversification is significantly positive for high-income countries compared to low and middle income countries. 
+
+
+
