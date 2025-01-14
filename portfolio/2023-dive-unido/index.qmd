@@ -1,0 +1,23 @@
+---
+title: "Diversifying Industries and Value Chains for Exports **(DIVE)** Manual"
+date: 2023-05-30
+date-modified: today
+author:
+  - Ahmed M Osman
+slug: peru-dive
+image: dive.png
+categories:
+  - Graphic Design
+  - Industrial
+  - Economics
+  - R
+  - Quarto
+subtitle: "**DIVE** is a tool for policymakers to consult when developing industrial policies"
+description: ''
+links:
+  - icon: book
+    name: DIVE Manual
+    url: https://www.unido.org/sites/default/files/files/2023-06/DIVE_Tool_Manual.pdf
+---
+
+A new approach to product prioritization for diversification A novel tool can help navigate diversification opportunities and drive structural change. To learn more read the report.

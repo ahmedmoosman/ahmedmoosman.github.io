@@ -1,0 +1,39 @@
+[
+  {
+    "listing": "/talk/index.html",
+    "items": [
+      "/talk/2024-03-12-spatial/index.html"
+    ]
+  },
+  {
+    "listing": "/publication/index.html",
+    "items": [
+      "/publication/2023-unido-peru/index.html",
+      "/publication/2023-disser/index.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/Dataviz 2024/index.html"
+    ]
+  },
+  {
+    "listing": "/about/index.html",
+    "items": [
+      "/blog/Dataviz 2024/index.html",
+      "/talk/2024-03-12-spatial/index.html",
+      "/publication/2023-unido-peru/index.html",
+      "/publication/2023-disser/index.html",
+      "/portfolio/2023-peru-unido/index.html",
+      "/portfolio/2023-dive-unido/index.html"
+    ]
+  },
+  {
+    "listing": "/portfolio/index.html",
+    "items": [
+      "/portfolio/2023-peru-unido/index.html",
+      "/portfolio/2023-dive-unido/index.html"
+    ]
+  }
+]
