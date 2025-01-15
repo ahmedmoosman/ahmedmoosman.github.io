@@ -1,1 +1,1 @@
-This is my new website reposity. I adopted this template from [Silvia Canelón](https://silviacanelon.com/) which i will be doing a lot of changes to adopt my own style.
+This is my new website reposity. I adopted this template from [Silvia Canelón](https://github.com/spcanelon/silvia) I am working on modifying this template to make a more suitable for academic purposes. 
