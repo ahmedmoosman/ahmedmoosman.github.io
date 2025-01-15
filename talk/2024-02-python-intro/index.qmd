@@ -1,0 +1,17 @@
+---
+title: "Introduction to Python"
+subtitle: "A Gentle Introduction to Python for Data Science course"
+author: 
+  - Ahmed M Osman
+date: 2024-02-21
+slug: python-gentle
+image: featured.png
+categories:
+  - Data analysis
+  - python
+  - Economics 
+links:
+- icon: filetype-html
+  name: Lab 1
+  url: https://ahmedmoosman.github.io/introduction_to_Python/
+---
