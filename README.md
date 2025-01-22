@@ -1,1 +1,2 @@
-This is my new website reposity. I adopted this template from [Silvia Canelón](https://github.com/spcanelon/silvia) I am working on modifying this template to make a more suitable for academic purposes. 
+This is my new website repository.
+
