@@ -1,0 +1,16 @@
+project:
+  output-dir: docs        # GitHub Pages publishes this folder
+  render:
+    - index.qmd
+  resources:
+    - styles.css
+    - script.js
+    - images/
+    - files/
+    - .nojekyll
+
+format:
+  html:
+    template: template.html   # the page skeleton (top bar, photo, links)
+    theme: none
+    minimal: true

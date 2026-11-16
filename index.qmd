@@ -1,0 +1,67 @@
+---
+title: "Ahmed M Osman"
+description: "Ahmed M Osman — PhD candidate in Space Science and Technology at the Università di Trento and Research Fellow at IVM, Vrije Universiteit Amsterdam. Earth observation, urban and spatial economics."
+favicon: images/favicon.svg
+photo: images/avatar.jpg
+photo-alt: "Portrait of Ahmed M Osman"
+
+# Buttons under the photo. Give an `icon` (a name from https://icons.getbootstrap.com)
+# or leave it out to show the `name` as text, like the CV button.
+# In a link, write "@" as %40.
+links:
+  - name: CV
+    href: files/cv.pdf          # put your CV at files/cv.pdf
+  - name: GitHub
+    icon: github
+    href: https://github.com/ahmedmoosman
+  - name: Bluesky
+    icon: bluesky
+    href: https://bsky.app/profile/ainaan.bsky.social
+  - name: LinkedIn
+    icon: linkedin
+    href: https://www.linkedin.com/in/ahmed-osman-6371aa12a/
+---
+
+I am a PhD candidate in Space Science and Technology at the [Università di Trento](https://webapps.unitn.it/du/it/Persona/PER0270965), and a Research Fellow at the [Institute for Environmental Studies (IVM)](https://vu.nl/en/about-vu/research-institutes/institute-for-environmental-studies-ivm), Vrije Universiteit Amsterdam.
+
+I operate at the intersection of satellite technology and economics, pioneering ways to transform the vast streams of Earth-observation data into actionable insights for economic policy. While these data are generated on an unprecedented scale, their potential remains largely untapped within policy circles due to the complexity of processing and integration. My research reimagines this frontier by designing innovative frameworks that seamlessly translate satellite data into powerful tools for economists and policymakers, especially in the realms of urbanisation and environmental resilience.
+
+My research interests include Urban Economics, Spatial Economics, and Earth Observation.
+
+---
+
+<!--
+  HOW TO ADD A PAPER
+  Copy one "- ..." item below. The indented ::: {.abstract} block becomes a
+  click-to-open "Abstract" button; add label="Summary" to rename the button,
+  or delete the block for no button. Use [text]{.small} for small text such
+  as co-authors.
+-->
+
+## Research
+
+### Work in Progress 
+
+- Spatiotemporal dynamics of slums in Africa
+
+
+
+## Policy Reports
+
+- The Ukraine Industrial Country Diagnostic 2023 [with Nicola Cantore, Gideon Ndubuisi, and Oriol Gisbert-Marti]{.small} \[[UNIDO Report](https://www.unido.org/sites/default/files/unido-publications/2024-08/UNIDO%20Industrial%20Diagnostic%20Study_Ukraine_2024.pdf)\]
+
+  ::: {.abstract}
+  This block identifies the main obstacles to doing business in Ukraine. It assesses Ukraine's governance and policymaking capacities to address these obstacles and to promote the development of the domestic manufacturing sector. The block concludes with a discussion of potential policy solutions and assesses their effectiveness in the Ukrainian context, considering the reality of the ongoing war. To streamline narrative flow and help readers come away with a better grasp of the ideas presented, the main bottlenecks are classified into two groups: (1) factors of production and (2) governance.
+  :::
+
+- Peru in the Global Economy: Recent Trends and Potential Diversification Strategies [with Florian Hespeel]{.small} \[[UNIDO Report](https://www.unido.org/sites/default/files/unido-publications/2023-12/Peru%20in%20the%20global%20economy%20-%20SINGLE%20PAGE%20WEB.pdf)\]
+
+  ::: {.abstract label="Summary"}
+  Promoting sustainable industrialization (SDG 9) involves technological innovation and economic diversification, crucial for developing countries. The successful collaboration between UNIDO and Peru in applying the DIVE (Diversifying Industries and Value Chains for Exports) tool is an impressive example of an innovative partnership, generating concrete and actionable evidence for informed decision-making.
+  :::
+
+- Diversifying Industries and Value Chains for Exports (DIVE) Manual \[[Manual](https://www.unido.org/sites/default/files/files/2023-06/DIVE_Tool_Manual.pdf)\]
+
+  ::: {.abstract label="Summary"}
+  DIVE is a tool for policymakers to consult when developing industrial policies: a new approach to product prioritization for diversification that helps navigate diversification opportunities and drive structural change.
+  :::

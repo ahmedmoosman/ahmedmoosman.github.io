@@ -11,3 +11,9 @@ Thumbs.db
 /assets/essentials/
 /.luarc.json
 
+
+**/*.quarto_ipynb
+
+# Kept on this computer only, not uploaded to GitHub
+/cv/
+/template.html
