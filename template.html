@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>$title$</title>
+$if(description)$
+  <meta name="description" content="$description$">
+$endif$
+$if(favicon)$
+  <link rel="icon" type="image/svg+xml" href="$favicon$">
+$endif$
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,400;0,500;0,700;1,400&display=swap">
+  <link rel="stylesheet" href="styles.css">
+  <!-- Apply the saved theme before the page paints, so there is no flash -->
+  <script>
+    try {
+      document.documentElement.setAttribute('data-theme', localStorage.getItem('theme') || 'light');
+    } catch (e) {}
+  </script>
+</head>
+<body>
+
+  <!-- Fixed top bar: name + dark/light switch -->
+  <header class="top-bar">
+    <h1>$title$</h1>
+    <label class="switch" title="Toggle dark mode">
+      <input type="checkbox" id="themeToggle" aria-label="Toggle dark mode">
+      <span class="slider"></span>
+    </label>
+  </header>
+
+  <div class="wrapper">
+    <hr class="top-rule">
+
+    <!-- Left column: photo and links (set in the header of index.qmd) -->
+    <aside class="left-side">
+$if(photo)$
+      <img src="$photo$" alt="$if(photo-alt)$$photo-alt$$else$Portrait of $title$$endif$">
+$endif$
+      <div class="contact-links">
+$for(links)$
+        <a href="$links.href$" target="_blank" rel="noopener" title="$links.name$">$if(links.icon)$<i class="bi bi-$links.icon$"></i>$else$$links.name$$endif$</a>
+$endfor$
+      </div>
+    </aside>
+
+    <!-- Right column: everything written in index.qmd -->
+    <main class="right-side">
+$body$
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

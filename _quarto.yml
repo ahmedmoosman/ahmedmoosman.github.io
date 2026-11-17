@@ -1,5 +1,5 @@
 project:
-  output-dir: docs        # GitHub Pages publishes this folder
+  output-dir: _site       # built by GitHub Actions; not committed
   render:
     - index.qmd
   resources:

@@ -14,6 +14,8 @@ Thumbs.db
 
 **/*.quarto_ipynb
 
+# Built site (GitHub Actions builds and publishes it)
+/_site/
+
 # Kept on this computer only, not uploaded to GitHub
 /cv/
-/template.html
