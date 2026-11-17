@@ -42,15 +42,17 @@ My research interests include Urban Economics, Spatial Economics, and GeoAI.
 
 ### Work in Progress 
 
-- Spatiotemporal dynamics of slums in Africa
+- Spatiotemporal dynamics of slums in Africa [with Jasper van Vliet, Sabine Vanhuysse]{.small}
+:::{.abstract}
 
+:::
 
 
 ## Policy Reports
 
 - The Ukraine Industrial Country Diagnostic 2023 [with Nicola Cantore, Gideon Ndubuisi, and Oriol Gisbert-Marti]{.small} \[[UNIDO Report](https://www.unido.org/sites/default/files/unido-publications/2024-08/UNIDO%20Industrial%20Diagnostic%20Study_Ukraine_2024.pdf)\]
 
-  ::: {.abstract label="Our Block"}
+  ::: {.abstract label="Summary"}
   This block identifies the main obstacles to doing business in Ukraine. It assesses Ukraine's governance and policymaking capacities to address these obstacles and to promote the development of the domestic manufacturing sector. The block concludes with a discussion of potential policy solutions and assesses their effectiveness in the Ukrainian context, considering the reality of the ongoing war. To streamline narrative flow and help readers come away with a better grasp of the ideas presented, the main bottlenecks are classified into two groups: (1) factors of production and (2) governance.
   :::
 
