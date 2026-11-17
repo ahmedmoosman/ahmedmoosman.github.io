@@ -26,7 +26,7 @@ I am a PhD candidate in Space Science and Technology at the [Università di Tren
 
 I operate at the intersection of satellite technology and economics, pioneering ways to transform the vast streams of Earth-observation data into actionable insights for economic policy. While these data are generated on an unprecedented scale, their potential remains largely untapped within policy circles due to the complexity of processing and integration. My research reimagines this frontier by designing innovative frameworks that seamlessly translate satellite data into powerful tools for economists and policymakers, especially in the realms of urbanisation and environmental resilience.
 
-My research interests include Urban Economics, Spatial Economics, and Earth Observation.
+My research interests include Urban Economics, Spatial Economics, and GeoAI.
 
 ---
 
