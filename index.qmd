@@ -34,29 +34,32 @@ My research interests include Urban Economics, Spatial Economics, and GeoAI.
   HOW TO ADD A PAPER
   Copy one "- ..." item below. The indented ::: {.abstract} block becomes a
   click-to-open "Abstract" button; add label="Summary" to rename the button,
-  or delete the block for no button. Use [text]{.small} for small text such
-  as co-authors.
+  or delete the block for no button. Write co-authors as [Name One, Name Two]{.with};
+  "with" is added in front and the names are shown in bold green.
 -->
 
 ## Research
 
 ### Work in Progress 
 
-- Spatiotemporal dynamics of slums in Africa [with Jasper van Vliet, Sabine Vanhuysse]{.small}
-:::{.abstract}
+- Spatiotemporal dynamics of slums in Africa \
+  [Jasper van Vliet, Sabine Vanhuysse]{.with}
 
-:::
+  :::{.abstract}
+
+  :::
 
 
 ## Policy Reports
 
-- The Ukraine Industrial Country Diagnostic 2023 [with Nicola Cantore, Gideon Ndubuisi, and Oriol Gisbert-Marti]{.small} \[[UNIDO Report](https://www.unido.org/sites/default/files/unido-publications/2024-08/UNIDO%20Industrial%20Diagnostic%20Study_Ukraine_2024.pdf)\]
+- The Ukraine Industrial Country Diagnostic 2023 \
+  [Nicola Cantore, Gideon Ndubuisi, and Oriol Gisbert-Marti]{.with} \[[UNIDO Report](https://www.unido.org/sites/default/files/unido-publications/2024-08/UNIDO%20Industrial%20Diagnostic%20Study_Ukraine_2024.pdf)\]
 
   ::: {.abstract label="Summary"}
   This block identifies the main obstacles to doing business in Ukraine. It assesses Ukraine's governance and policymaking capacities to address these obstacles and to promote the development of the domestic manufacturing sector. The block concludes with a discussion of potential policy solutions and assesses their effectiveness in the Ukrainian context, considering the reality of the ongoing war. To streamline narrative flow and help readers come away with a better grasp of the ideas presented, the main bottlenecks are classified into two groups: (1) factors of production and (2) governance.
   :::
 
-- Peru in the Global Economy: Recent Trends and Potential Diversification Strategies [with Florian Hespeel]{.small} \[[UNIDO Report](https://www.unido.org/sites/default/files/unido-publications/2023-12/Peru%20in%20the%20global%20economy%20-%20SINGLE%20PAGE%20WEB.pdf)\]
+- Peru in the Global Economy: Recent Trends and Potential Diversification Strategies [Florian Hespeel]{.with} \[[UNIDO Report](https://www.unido.org/sites/default/files/unido-publications/2023-12/Peru%20in%20the%20global%20economy%20-%20SINGLE%20PAGE%20WEB.pdf)\]
 
   ::: {.abstract label="Summary"}
   Promoting sustainable industrialization (SDG 9) involves technological innovation and economic diversification, crucial for developing countries. The successful collaboration between UNIDO and Peru in applying the DIVE (Diversifying Industries and Value Chains for Exports) tool is an impressive example of an innovative partnership, generating concrete and actionable evidence for informed decision-making.
